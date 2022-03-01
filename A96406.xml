@@ -1,0 +1,446 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The voice of wisdome, uttered forth against antichrists folly and deceits, and the freeness of Gods love to the creature, and the effects of his righteousnesse in his people truly discovered. ... and this is in answer to a book, falsly titled The Quakers folly made manifest to all men. Given forth by Tho. Danson, a priest at Sandwich in Kent ... / By a friend to them that regard true instruction, and a witness of Christs righteousnesse, George Whitehead.</title>
+            <author>Whitehead, George, 1636?-1723.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 69 KB of XML-encoded text transcribed from 29 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96406</idno>
+            <idno type="STC">Wing W1972</idno>
+            <idno type="STC">ESTC R186533</idno>
+            <idno type="EEBO-CITATION">47683554</idno>
+            <idno type="OCLC">ocm 47683554</idno>
+            <idno type="VID">173008</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96406)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173008)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2661:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The voice of wisdome, uttered forth against antichrists folly and deceits, and the freeness of Gods love to the creature, and the effects of his righteousnesse in his people truly discovered. ... and this is in answer to a book, falsly titled The Quakers folly made manifest to all men. Given forth by Tho. Danson, a priest at Sandwich in Kent ... / By a friend to them that regard true instruction, and a witness of Christs righteousnesse, George Whitehead.</title>
+                  <author>Whitehead, George, 1636?-1723.</author>
+               </titleStmt>
+               <extent>[4], 52 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"With Authoritie."</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Danson, Thomas, d. 1694. --  Quakers folly made manifest to all men.</term>
+               <term>Quakers folly made manifest to all men.</term>
+               <term>Society of Friends --  Apologetic works --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173008:1" rendition="simple:additions"/>
+            <p>THE VOICE of WISDOME, UTTERED Forth againſt Antichriſts folly and deceits, and the freeneſs of Gods Love to the Creature, and the effects of his Righte<g ref="char:EOLhyphen"/>ouſneſſe in his people truly diſcovered.</p>
+            <list>
+               <item>1 <hi>Concerning the Light of Chriſt within.</hi>
+               </item>
+               <item>2 <hi>Of Perfection in this Life.</hi>
+               </item>
+               <item>3 <hi>Of Juſtification, how it is known.</hi>
+               </item>
+               <item>4 <hi>Of the Scriptures, and the uſe of them.</hi>
+               </item>
+            </list>
+            <p>And this is in Anſwer to a Book, falſly Titled, <hi>The Quakers folly made manifeſt to all men.</hi> Given forth by <hi>Tho. Danſon,</hi> a Prieſt at <hi>Sandwich</hi> in <hi>Kent,</hi> who ha<g ref="char:EOLhyphen"/>ving begun his Book with a Lye, he hath added to it many falſe Principles, and Doctrines in his Book, touch<g ref="char:EOLhyphen"/>ing theſe things aforeſaid; which Principles are gene<g ref="char:EOLhyphen"/>rally held forth by the Prieſts in <hi>England:</hi> But are here plainly confuted, and the cauſe of the Innocent (whom he hath falſly accuſed) cleared, according to the Scriptures of Truth.</p>
+            <p>By a Friend to them that Regard true Inſtruction, and a witneſs of Chriſts Righteouſneſſe, <hi>George Whitehead.</hi>
+            </p>
+            <q>Behold, he travelleth with Iniquity, and hath conceived miſchief, and brought forth falſhood; he made a pit, and digged it, and is fallen into the ditch which he made,
+<bibl>
+                  <hi>Pſal. 7.14, 15.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Simmons</hi> at the Bull and Mouth near <hi>Alderſgate,</hi> 1659.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:173008:2"/>
+            <pb facs="tcp:173008:2"/>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>IN the fear of the Lord, according to the movings of his Spirit, it was upon me, to give forth this following Treatiſe, as being occaſioned by reaſon of <hi>Th. Danſons</hi> imperfect and confu<g ref="char:EOLhyphen"/>ſed Relation <hi>(Title the</hi> Quakers <hi>folly made manifeſt to all men)</hi> which he hath given forth, chiefly againſt <hi>Sam. Fiſher, Geo. White<g ref="char:EOLhyphen"/>head, and Richard Hubberthorn,</hi> touching three Diſputations which they had with the ſaid Prieſt, about certaine weighty matters of Religion; about which now, to clear himſelf of his falſe doctrines, and confuſions, he was ma<g ref="char:EOLhyphen"/>nifeſt in at the diſputes, he hath further both wronged them and the truth, ſometimes in laying down things in their names which they never ſpoke, and oftentimes diminiſhing from their words, and making falſe conſtructions of them; as alſo, he hath added to his former falſe doctrins, abſurdities, &amp; ſelf contradictions both in his ſaid Relation, and in a pretended Anſwer, he hath given to <hi>R. Hubberthorns</hi> Book, titled, <hi>The Difference of that call of God to the Miniſtry, &amp;c.</hi> And beſides, this Prieſt hath wreſted ſeveral Scriptures by his falſe mean<g ref="char:EOLhyphen"/>ings, and interpretations; and therein is the
+<pb facs="tcp:173008:3"/>ſaid Prieſts principles (concerning the light within, perfection, and juſtification) which generally are maintained by the Prieſts of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> anſwered, and clearly confuted by the truth; and the innocent cleared from the lyes, and falſe aſperſions publiſhed by the ſaid <hi>Tho<g ref="char:EOLhyphen"/>mas Danſon,</hi> in his ſaid Relation and Anſwer. And this my anſwer is given forth for the truth ſake, in love to the ſimple hearted, that they may be inſtructed, and their doubts reſolved, which being read in ſimplicity, with a ſingle eye towards God, and his way, ſomething may be added to the readers underſtanding: and here he may ſee, that the pitt which the wicked hath digged for others, he is fallen into himſelf, <hi>Prov. 26: 27. Eccles: 10: 8.</hi>
+            </p>
+            <p>And Reader, I adviſe thee, let no ſecret pre<g ref="char:EOLhyphen"/>judice nor envy lodge in thy heart againſt us, but mind the gift of God in thee, which brings out of ſtrife, and hard thoughts into the meekneſs and lowlines of mind; and then thou may the better underſtand the truth, and ſee the difference be<g ref="char:EOLhyphen"/>twixt us, who witneſſe of the life of Chriſt in us, and the Prieſts and Profeſſors of the world, who are out of Chriſts life, and then try all things, and hold faſt that which is good, <hi>1 Thes: 5:21:</hi>
+            </p>
+            <closer>
+               <signed>G. W.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:173008:3"/>
+            <head>THE VOICE OF WISDOME, AND TRUTH Uttered, &amp;c.</head>
+            <p>THe Wiſdome and diſcerning which the Lord God hath revealed by his Spirit in his people (called <hi>Quakers</hi>) ſtand<g ref="char:EOLhyphen"/>eth over all the folly of the World, and o<g ref="char:EOLhyphen"/>ver all the ſubtilty and deceits of the Wiſemen and Merchants of <hi>Babylon;</hi> who by their ſubtilty and deceits have pervert<g ref="char:EOLhyphen"/>ed the ſimple, and made Merchandiſe of ſouls, as theſe Prieſts do, who have been fighting with their Inventions againſt us and the Truth, which we are raiſed up to vindicate, by the power and ſpirit
+<pb n="2" facs="tcp:173008:4"/>which hath diſcovered unto us their de<g ref="char:EOLhyphen"/>ceits and ſubtilty, and whereby we have overcome them hitherto, when they have made war againſt us both in words and writings; becauſe that greater is he that is in us, (who maketh war for us) then he that is in the world ruling in theſe falſe Teachers; and where we are here charged with folly, That ſhall lye upon his and their heads (who have falſely charged us therewith) as thoſe that are guilty; as the proud, covetous, heady, high-minded<g ref="char:EOLhyphen"/>men, and the fierce deſpiſers were whom the Apoſtle charged with theſe things, 2 <hi>Tim.</hi> 3.9. And we ſee that theſe proud and covetous Prieſts, their folly is ſo far alrea<g ref="char:EOLhyphen"/>dy made manifeſt, that they can proceed no further in their ſubtilty againſt the Truth then they have done; but their fol<g ref="char:EOLhyphen"/>ly will be manifeſt, for I finde that this Prieſt, <hi>Tho. Danſon,</hi> hath brought no ſtrong<g ref="char:EOLhyphen"/>er Arguments againſt what we profeſs then many of his Brethren in iniquity have done heretofore; but in many things the very ſame, onely he hath added more to his and their iniquities, in ſpreading his falſe Doctrines, and falſe Accuſations a<g ref="char:EOLhyphen"/>broad, and in laying down ſeveral things in our Names which were never held forth by
+<pb n="3" facs="tcp:173008:4"/>us, called Quakers: But bleſſed be the Lord our God, who hath indued us with power &amp; wiſdome from on high, that ſuch ſubtil Foxes cannot hide themſelves in all their holes and dens, from that eye which the Lord hath opened in us, and which he is opening in many thouſands, who ſhall ſee the ſhame and nakedneſs of theſe who have cauſed people to erre in the times of igno<g ref="char:EOLhyphen"/>rance and darkneſs, which the Lord God is redeeming his people out of, into his marvellous light and wiſdome which all they ſhall have right unto, who are mind<g ref="char:EOLhyphen"/>ful of his appearance in his light and power, who hearken to his counſel, as thoſe that are willing to be led by him.</p>
+            <p>And now to thee <hi>Tho. Danſon,</hi> who falſly haſt called thy ſelf a Miniſter of the Go<g ref="char:EOLhyphen"/>ſpel (as hereafter will appear) and who hath laid falſe things to the charge of the Innocent, as is alſo here made manifeſt: Where in thy Epiſtle to the Reader, thou ſayeſt, <hi>Hadſt thou conſidered the likelihood of the Quakers Printing, which would neceſſitate thine, thou thinkſt thou ſhouldſt have waved any diſcourſe with them, but Repentance is now too late, &amp;c.</hi> So then it appears thou waſt not willing to have thy deeds brought to light, nor thy Doctrines to publike view,
+<pb n="4" facs="tcp:173008:5"/>but waſt afraid to be made manifeſt as ma<g ref="char:EOLhyphen"/>ny of thy Brethren have been, and are; and it appears then, that what thou haſt done in thy diſputing with us is to be re<g ref="char:EOLhyphen"/>pented of, but now Repentance is too late, as thou confeſſeſt; and thou ſayeſt, <hi>Thou choſe rather to out-word us, which is the reaſon why thy Anſwers are oftentimes ſo large and laxe.</hi> So here thou haſt reſolved in thy own will to out-word us, but thy words ſhall be thy burthen, and thou haſt here diſcovered what ſpirit thou art of, who with thy multitude of words, which dark<g ref="char:EOLhyphen"/>ens counſel, and perverts the ſimple, haſt gone about to mannage deceit, and thoſe things which are to be repented of; which are not of the truth, and it is well, if Re<g ref="char:EOLhyphen"/>pentance be not too late for thee, as thou ſayeſt; but if thou hadſt been in that Spi<g ref="char:EOLhyphen"/>rit which the righteous are led by, thou wouldſt have uſed fewer words, and to more purpoſe, and more ſeaſonable then thou haſt; for in ſtriving in thy will to out<g ref="char:EOLhyphen"/>word men, thou haſt ſhewn thy ſelf one of them whoſe lips the Lord will cut off, whoſe tongue ſpeaketh proud things, who have ſaid, <hi>With our tongue we will prevail, our lips are our own, who is Lord over us?</hi> Pſal. 12.3, 4. And alſo in thy Narrative upon thy
+<pb n="5" facs="tcp:173008:5"/>agreeing to diſpute with us; In a looſe or diſorderly Diſcourſe) which falſly thou haſt charged us with) which thou waſt re<g ref="char:EOLhyphen"/>ſolved to ſpeak to us in, (as thou haſt con<g ref="char:EOLhyphen"/>feſſed) <hi>That the Devil might be beat at his own weapon, and outſhot in his own bow,</hi> &amp;c.</p>
+            <p>
+               <hi>Anſ.</hi> To which I anſwer, Then its evident that thou haſt taken up the Devils bow to ſhoot in, &amp; haſt ſhot in the Devils bow, as hereafter appears; was ever the like? Did ever any of the Goſpel-Miniſters ſeek to out-ſhoot the Devil in his own bowe? Nay, The true Miniſters made war againſt the Devil, with the ſword of the Spirit, and with the weapons of God which were mighty through Chriſt, to the caſting down of ſtrong holds, and ſpiritual wickedneſs in high places, 2 <hi>Cor.</hi> 10.4. <hi>Eph.</hi> 6.11, 12. So they did not ſhoot in the Devils bow, as this Prieſt hath done: And truly its no marvel that theſe Prieſts, and their Hear<g ref="char:EOLhyphen"/>ers are ſo ſinful as they are, and plead ſo much for fin, againſt perfection and free<g ref="char:EOLhyphen"/>dome from ſin in this life, as they do; ſee<g ref="char:EOLhyphen"/>ing that the Prieſts are but ſhooting in the Devils bow yet, whereby they can never ſlay the Devil, nor caſt down wickedneſs, but ſtill he being alive in them, his work (which is fin) remains in them, and they
+<pb n="6" facs="tcp:173008:6"/>are in his work, and while they ſhoot the Devils bow, they ſhoot againſt the truth, and againſt ſuch as are in it, as the wicked do, who ſhoot their arrows, even bitter words againſt the righteous.</p>
+            <p>And now omitting many abſurdities, and unſavory words, &amp; impertinent mat<g ref="char:EOLhyphen"/>ters in this ſaid <hi>Tho. Danſon</hi> the Prieſt his Book, which are not worth the mention<g ref="char:EOLhyphen"/>ing: I ſhall in ſhort Anſwer ſome of his Principles and Doctrines; whereon the ſtreſs of his whole matter dependeth; to<g ref="char:EOLhyphen"/>gether with ſome lyes he hath ſhot out of Devils bow againſt us, in laying down his own words in our names, and anſwering his own words which he counts ours, which we never ſpoke.</p>
+            <div n="1" type="part">
+               <head>I. Concerning the Light of Chriſt.</head>
+               <p>
+                  <hi>THomas Danſon</hi> the Prieſt ſaith, <hi>The Lights mentioned,</hi> Viz. <hi>Natural, and Supernatural Light, are two, and though all have the one, yet but few have the other.</hi>
+               </p>
+               <pb n="7" facs="tcp:173008:6"/>
+               <p> 
+                  <hi>Anſw.</hi> The Life of Chriſt is the light of men, and that is not natural, but ſpiritu<g ref="char:EOLhyphen"/>al; &amp; he is the true light which inlightens every man that cometh into the World, <hi>John</hi> 1.9. ſo if they be come into the World, they are inlightned by Chriſt; which light brings ſalvation to them that love it, and condemnation to them that hate it; and thou might as well count the life of Chriſt natural, as count it ſo, for it is the Life that was in Chriſt, which lighteth every man in the World; <hi>John</hi> 1.4, 9.</p>
+               <p>
+                  <hi>Tho. Danſon.</hi> And where thou haſt char<g ref="char:EOLhyphen"/>ged <hi>R. Hubberthorn</hi> with ſaying, <hi>That the true Light hath not come over, and com<g ref="char:EOLhyphen"/>prehended thee.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> That's falſe; he ſaid no ſuch thing, for I was preſent, and heard what he ſaid; for the Light hath compre<g ref="char:EOLhyphen"/>hended thee, but thou art not come in<g ref="char:EOLhyphen"/>to it, nor haſt comprehended it; for darkneſs comprehendeth not the Light, though the Light ſhineth in darkneſs, <hi>John</hi> 1.5.</p>
+               <p>
+                  <hi>Tho. Danſon</hi> alſo hath charged us <hi>with conſenting that the knowledge of the Goſpel is vouchſafed by Chriſt to every man.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> No ſuch thing did we conſent to,
+<pb n="8" facs="tcp:173008:7"/>as that every man had the knowledge of the Goſpel, but that there were ſome in darkneſs, and yet that which might be known of God was manifeſt in them, <hi>Rom.</hi> 1.19. So their ignorance of the Goſpel doth not argue that they had not that Light in them that was able to bring them to know the Goſpel (which is the power of God) but rather that they diſ<g ref="char:EOLhyphen"/>obeyed the Light of God in them, and liked not <hi>to retain God in their knowledge, Rom.</hi> 1.28. And as for that of <hi>Pſal.</hi> 147.19, 20. <hi>He ſheweth his word unto Jacob, his Statutes and Judgments unto Iſrael, he hath not dealt ſo with any nation, and as for his judgements they have not known them:</hi> So then this makes for what I ſaid, for that may be ſhewn or given to people which they know not, and then the light of Chriſt (which was before theſe ſtatutes and judgements were given to <hi>Iſrael,</hi>) is given to many who know not the Myſtery of it, becauſe they abide not in the paths of it, <hi>Job</hi> 24.13. And this Prieſt in ſaying, <hi>That by the words, ſtatutes and judgements are meant the ſupernatural light or knowledge of the Goſpel;</hi> here he hath confuted him<g ref="char:EOLhyphen"/>ſelf, for if theſe ſtatutes and judgements were the knowledge of the Goſpel, why
+<pb n="9" facs="tcp:173008:7"/>did <hi>Iſrael</hi> not know them, who had them? And if theſe Statutes and Judgements recorded in the Scriptures which <hi>Iſrael</hi> had (which many others had not) were the knowledge of the Goſpel; then he might as well ſay, That the Scribes and Phariſees who had them, and read theſe theſe Statutes in the Scriptures, had the knowledge of the Goſpel, when as on the contrary they knew not Chriſt nor the Goſpel, which is but one (though his Kingdome was in them) and him hath God afforded a light to the Nations, and an Enſign to the people, and the Nations of them that are ſaved ſhall walk in his light, both of Jews and Gentiles, who are inlightned by him without exception, <hi>Iſai.</hi> 42.6. and 49.6. <hi>Rev.</hi> 21.24.</p>
+               <p>
+                  <hi>Tho. Danſon</hi> ſaith, <hi>As for that Scripture,</hi> Rom. 2.15. <hi>tis ſpoken of the natural light, for tis oppoſed to the knowledge of the Jewes; and the words are not the Law, but the works or effects of the Law, written in their hearts.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Nay, that is falſe, tis ſpoken of the work of the Law; which Law was writ<g ref="char:EOLhyphen"/>ten in the Gentiles hearts, and this Law was ſpiritual, and not a natural Light, as this Prieſt ſaith, and the nature by which theſe Gentiles did thoſe things contained
+<pb n="10" facs="tcp:173008:8"/>in the Law, was according to the Law; heres no natural Light ſpoken of in that Scrip<g ref="char:EOLhyphen"/>ture, <hi>Rom.</hi> 2.15. which makes for us, that they that were not Jewes, but Gentiles alſo had the Law of God, which is ſpiritual, written in their hearts, whether they were excuſed or accuſed?</p>
+               <p>Tho. Danſon, <hi>Chriſt was not to be a Light to them, till his coming in the fleſh.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> What then was Chriſts preſence in the fleſh among all the Gentiles whom he did inlighten? what darkneſs is this? ſeeing his out goings have bin from of old as ſaid the Prophet, and he is the foundation of many Generations, and Rock of Ages, <hi>Mica.</hi> 5.2.</p>
+               <p>And if this Prieſts words were true, what became of all theſe Gentiles that died before the dayes of Chriſt in the fleſh? were they condemned becauſe they had no Light of Chriſt given them, (dare he ſay) or becauſe they diſobeyed the Light which they had?</p>
+               <p>
+                  <hi>Thomas Danſon</hi> brings the 2 <hi>Cor.</hi> 4.6. to prove <hi>that there are ſome to whom the light of the Goſpel doth not ſhine,</hi> &amp; Matth. 13:11: &amp; Luk. 10:21: <hi>that it was given to the diſciples to know the Myſteries of the kingdom, not to others.</hi>
+               </p>
+               <pb n="11" facs="tcp:173008:8"/>
+               <p> 
+                  <hi>Anſ.</hi> Here he hath perverted that of 2 <hi>Cor.</hi> 4.6. for it doth not ſay that the light of the Goſpel doth not ſhine unto them, but that the God of the world hath blinded the mindes of them who believe not, leaſt the light of the Glorious Goſpel ſhould ſhine unto them; which if the light were not in them, how could he ſeek to hinder it from ſhining to them? for that is his end (who blindes the mindes of the peo<g ref="char:EOLhyphen"/>ple) to keep them from ſeeing the Light, that it might not ſhine unto them; but he cannot hinder the light from inlightening people, though he and his miniſters ſeek to keep people in blindneſs, from ſeeing it in them, and from believing in it; yet it doth ſhine in their darkneſs: And as to that of <hi>Matth.</hi> 13.11. The cauſe why it was not given to ſome to know the Myſte<g ref="char:EOLhyphen"/>ries of the Kingdom, was becauſe they cloſed their eyes againſt the light, <hi>Matth.</hi> 13.15. which manifeſts, that it ſometimes opened them: whereby they might have known thoſe Myſteries, which were hid from the prudent of the world, who did ſhut their eyes againſt the light in them, as thou haſt done, who contendeſt againſt it's being in them, who ſee it not; and as for the mindes of ſome being alienated from
+<pb n="12" facs="tcp:173008:9"/>the life of God, that proves nothing againſt the light of Chriſt being in them, but for it; for if their mindes were eſtranged from it, then it was in them, <hi>Epheſ.</hi> 4.18.</p>
+               <p>
+                  <hi>Tho. Danſon</hi> hath <hi>denyed that Chriſt dyed for all; Counting the phraiſe,</hi> (pag. 6.) <hi>Chriſt Inlightens every man: (Indefinite, as he doth the other: Chriſt taſted death for every man,</hi> Heb. 2.6.</p>
+               <p>
+                  <hi>A.</hi> Let the Scripture it ſelf ſtand a witneſs againſt this Prieſts falſe Doctrine &amp; mean<g ref="char:EOLhyphen"/>nings he addes to the Scriptures; for the Scripture ſaith Chriſt died for all, &amp; taſted death for every man, and that Chriſt is the propitiation for our ſins, and not for ours only, but for the ſins of the whole world, 2 Cor: 5:15: Heb: 2:9:1 Ioh: 2:2: But this Prieſt ſaith <hi>Chriſt dyed for a certaine number, onely for thoſe that were converts and Belee<g ref="char:EOLhyphen"/>vers.</hi> So whether ſhould wee beleeve the Scripture, or <hi>Thomas Danſon,</hi> who ſo flatly contradict one another, and where the Scripture ſaith Chriſt inlightens every man that cometh into the world, <hi>Joh:</hi> 1:9: this Prieſt ſaith, <hi>The meaning of thoſe words cannot be as the letter of them doth import.</hi>
+               </p>
+               <p>Again (the <hi>Prieſt</hi> hath contradicted himſelf in <hi>pag:</hi> 8: he ſaith) <hi>I do not pretend to power, to give meanings to Scripture, by adding any thing
+<pb n="13" facs="tcp:173008:9"/>to the Scripture which is not in it, but to finde what already is, by cauſing the Scriptures with the Cherubins</hi> to face one another.</p>
+               <p>
+                  <hi>Anſ.</hi> Thats falſe, for thou haſt given mean<g ref="char:EOLhyphen"/>ings which are not in the Scriptures, and ſo art to be reproved for adding to thewords of the Lord, <hi>Pro.</hi> 30.6. in thy giving ſuch meanings as the letter doth not import (as thou confeſſeſt) &amp; ſo being uneſtabliſhed in the light, thou wreſteſt the Scriptures to thy own deſtruction, not ſeeing the difference of the ſtates &amp; conditions, which the Scrip<g ref="char:EOLhyphen"/>tures are ſpoken to; ſo thou would make the Scriptures diſagree with themſelves; in thy ſaying thou muſt reconcile the Scripture to it ſelf: and telling of cauſing them to fate one another when as the Scripture cannot be broken, <hi>Joh.</hi> 10.35. And before ever thou, or any of you underſtand the Scriptures aright, the light which gave them forth, you muſt come to feel, and own in your ſelves, which will reprove your de<g ref="char:EOLhyphen"/>ceits, &amp; vain imaginations, and appears to convince you thereof: and to condemne you for your perverting the Scriptures, and making a trade of them, and ſelling your falſ meanings for mony to the people, though many of the hearts of you prieſts are ſo hardened and your conſciences ſo
+<pb n="14" facs="tcp:173008:10"/>ſeared through your covetuoſneſs, pride &amp; deceit, that you know not the appearance of the Light of Chriſt in your ſelves; though it doth often appear and break forth upon the unjuſt to condemn them, ſo that you not knowing the light in your ſelves, by your dark ſpirits and earthly minds you contend againſt it in others; and you ſhut up the Kingdome of God in people, as the Phariſees did, who ſhut up the Kingdom of God againſt men, and would neither enter in themſelves, nor ſuf<g ref="char:EOLhyphen"/>fer others to enter: and ſo your preaching and praying for all to come to Chriſt and be ſaved is of none effect, for its out of the faith, while you do not beleeve that all are are enlightened by Chriſt, nor that Chriſt dyed for all men, for you do but flatter and mock the people, whileſt you perſwade them to lay hold on that ſalvation which you do not believe that ever they may atttain to. And what do you preach to in people which muſt receive the word, and lay hold upon the Goſpel, if they all be not enlightened by Chriſt? And what is it that muſt Reveal Chriſt in them who are in darkneſs, and blindneſs, if there be not a light in them which in<g ref="char:EOLhyphen"/>lightens their darkneſs, and diſcovers
+<pb n="15" facs="tcp:173008:10"/>their blindeneſſe to them before they can ſee out of obſcurity, or ſee their light ſhining out of darkneſſe?</p>
+            </div>
+            <div n="2" type="part">
+               <head>II. <hi>Of the doctrine of Perfection in this life, which is oppoſed by the Miniſters of Antichriſt.</hi>
+               </head>
+               <p>THomas Danſon ſaith; pag. 9. <hi>Your Do<g ref="char:EOLhyphen"/>ctrine of Perfection is againſt the te<g ref="char:EOLhyphen"/>nour of the Scripture (and to prove it, he hath given his meanings) and brings that of</hi> Job 9.20. If I ſaid I am Perfect, my mouth ſhall prove me perverſe, (<hi>pag.</hi> 10.) Phil. 3.12. and 1 Joh. 2.2. when he ap<g ref="char:EOLhyphen"/>pears we ſhall be like him (to wit Chriſt) and Heb. 9. ult: And he ſaith, (p. 11.) <hi>the perfection Paul denies, is the ſtate of the Re<g ref="char:EOLhyphen"/>ſurrection which is to be without ſin, &amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Here he hath wronged the Scrip<g ref="char:EOLhyphen"/>tures, for there is no Scripture that ſaith that perfection is againſt the tenour of the Scriptures, for God commanded Perfection, <hi>Gen.</hi> 17.1. <hi>Deut.</hi> 18.13. The
+<pb n="16" facs="tcp:173008:11"/>Prophets of the Lord Preached Perfecti<g ref="char:EOLhyphen"/>on, that they might have their ſins taken away and be waſhed from all their filthi<g ref="char:EOLhyphen"/>neſſe, and do no iniquity: (which was a perfect freedom from ſin) <hi>Pſal:</hi> 37: 37: <hi>Pſal:</hi> 119: 1, 2, 3: <hi>Ezek:</hi> 36: 25: And Chriſt commanded his to be perfect as their hea<g ref="char:EOLhyphen"/>venly father is perfect, and the Apoſtles preached perfection and wiſdom among them that were perfect, and preached to preſent every man perfect, and ſaid, be Perfect, be of one minde, ſee <hi>Matth:</hi> 5: 48: 1 <hi>Cor:</hi> 2: 6: 2 <hi>Cor:</hi> 13: 11: <hi>Coloſ:</hi> 1: 28: And <hi>Paul</hi> denyed not the State of the Reſur<g ref="char:EOLhyphen"/>rection as this Prieſt hath accuſed him; for he ſaid if ye be riſen with Chriſt, minde thoſe things which are above; And <hi>Paul</hi> denyed not freedome from ſin as he hath accuſed him; for <hi>Paul</hi> ſaid, Now being made free from ſin, and become the ſer<g ref="char:EOLhyphen"/>vants to God, <hi>Rom:</hi> 6: 18: 22: And in that <hi>Phil:</hi> 3: 15: he ſaith, Let us therefore as ma<g ref="char:EOLhyphen"/>ny as be perfect be thus minded: And that of <hi>Job</hi> 9: 20, 21: proves not that <hi>Job</hi> was not without fin, when God had delivered him out of that Affliction wherein he ſaid, If I ſay I am perfect, my mouth ſhall prove me perverſe, though I were perfect, yet would I not know my ſoul? I would
+<pb n="17" facs="tcp:173008:11"/>deſpiſe my life: But after this, <hi>Job</hi> was Girded up in the power of God, and his Righteouſneſs and Innocency did ſhine with the Lord, and he was perfect and feared God. And the Saints witneſ<g ref="char:EOLhyphen"/>ſed Chriſts appearance in them without fin unto Salvation, for they were ſaved from ſin by Chriſt; and <hi>John</hi> ſpeaking of Chriſt, ſaid as he is, ſo are we in this world, 1 <hi>Joh.</hi> 4: 17: So they did not put cleanſing from ſin, nor perfection a farre off, as theſe Prieſts do who are Ignorant of that birth which is born of God, which whoſoever is born of, ſinneth not; neither can the wicked one touch him: ſo then he hath not power to lead him into ſin, becauſe he is born of God, and is kept by the power of God, 1 <hi>Joh:</hi> 3: 9: <hi>chap:</hi> 5: 18: which before that ſtate of freedom be witneſſed, there is a time of Pain in travel, and of ſuffering in Temptations and Tryals, which theſe blinde Guides not ſeeing, would lay ſin to the charge of Gods Elect, who is born of God, and hath overcome the wicked one; ſo away with the Prieſts falſe meanings which are for ſin and Imperfection in this life, for they are quite againſt the Tenour of the Scriptures.</p>
+               <pb n="18" facs="tcp:173008:12"/>
+               <p> T. Danſon <hi>ſaith,</hi> p. 12. <hi>A Beleevers per<g ref="char:EOLhyphen"/>ſon with his works are accepted with God, though his works be not perfect.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Here he would have the beleevers like the Prieſts, who ſin in the beſt of their performances as they confeſs; but to con<g ref="char:EOLhyphen"/>fute his error herein, I ſay the beleevers works are wrought in God, and God hath wrought all their works in them, <hi>Iſai.</hi> 26.12. So theſe works of God which true beleevers witneſs are perfect, and the be<g ref="char:EOLhyphen"/>leevers have ceaſed from their own works which were imperfect, and are come into Gods works which are perfect.</p>
+               <p>Thomas Danſon <hi>ſaith,</hi> p. 13. <hi>Let me hear what anſwer you can give to that Scripture which hath run much in my minde againſt this Doctrine, There is not a juſt man upon earth that doth good, and ſinneth not,</hi> Eccleſ. 7.20. <hi>We ſay indeed that no ſuch juſt man as</hi> Solo<g ref="char:EOLhyphen"/>mon <hi>ſpeaks of is to be found on earth, but in heaven.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> The Converſation of the Saints is in Heaven, <hi>Eph.</hi> 2.6. <hi>Phil.</hi> 3.20. and they are redeemed from the earth, and from the vanity where <hi>Solomon</hi> ſaw all things in the dayes of his vanity; in which ſtate all were ſinners, and there is a juſt man that periſheth in his righteouſneſs,
+<pb n="19" facs="tcp:173008:12"/>
+                  <hi>Eccleſ.</hi> 7.15. but there is a juſt man that walketh in his Integrity, <hi>Prov.</hi> 20.7. And <hi>he that doth righteouſneſs is righteous even as Chriſt is righteous,</hi> 1 John 3.7.</p>
+               <p>Thomas Danſon, <hi>We are one body with them in Heaven, and have the ſame title with them in poſſeſſion,</hi> p. 14. and 38.</p>
+               <p>
+                  <hi>Anſw.</hi> This confutes his former words, for they that are one body with them in Heaven, are Members of the body of Chriſt, which is perfect, and its mem<g ref="char:EOLhyphen"/>bers compleat, <hi>Col.</hi> 2.10. <hi>Eph.</hi> 3.15. to the end.</p>
+            </div>
+            <div n="3" type="part">
+               <head>III. Concerning Juſtification.</head>
+               <p>WHereas <hi>S. Fiſher</hi> ſpoke of our good Works (as they are wrought in the Spirit) being a meritorious (or deſer<g ref="char:EOLhyphen"/>ving) cauſe of Juſtification; this Prieſt hath made much adoe about it to prove that <hi>S. F.</hi> is a rank Papiſt, and to prove it, he (the Prieſt) ſaith, <hi>Our good works are but imperfectly good;</hi> and <hi>Iſai.</hi> 64.6. <hi>All our righ<g ref="char:EOLhyphen"/>teouſneſſes are as filthy rags.</hi>
+               </p>
+               <pb n="20" facs="tcp:173008:13"/>
+               <p> Anſw. <hi>Samuel Fiſher</hi> never affirmed that imperfect works, and the righteouſ<g ref="char:EOLhyphen"/>neſs which is as filthy rags, doe deſerve Juſtification, as this Prieſt hath wronged him and the truth; but good works, which are the fulfilling of the Law, which is wrought in us by Chriſt, (as he hath wrought all our works in us, and all his works are perfect) theſe are diſcerning Juſtification, for they are juſtified as be<g ref="char:EOLhyphen"/>ing ordained of God, <hi>Epheſ.</hi> 2.10. and ſeeſt thou. how Faith wrought with his works, and by works was Faith made per<g ref="char:EOLhyphen"/>fect, <hi>Jam.</hi> 2.22.</p>
+               <p>And this Prieſt hath in <hi>page</hi> 15. con<g ref="char:EOLhyphen"/>feſſed, <hi>That good works, which are the ful<g ref="char:EOLhyphen"/>filling of the Law deſerve ſalvation, and that the deſert of obedience ariſes from the digni<g ref="char:EOLhyphen"/>ty of the Subject by which it is performed.</hi> So then this makes for what <hi>S. F.</hi> decla<g ref="char:EOLhyphen"/>red, for here it appears then that obedi<g ref="char:EOLhyphen"/>ence to God is deſerving, and upon true obedience there is promiſes given. And further I ſay, that without the Spirit and power of Chriſt to lead the creature, there is no obedience that can be perfor<g ref="char:EOLhyphen"/>med, either deſerving, or acceptable to the Lord God; ſo that ſtill theſe works which are deſerving a promiſe of God, are the
+<pb n="21" facs="tcp:173008:13"/>works of Chriſt Jeſus in us, and through us; ſo his ſpirit and power which is the cauſe of theſe works, is that which juſtifi<g ref="char:EOLhyphen"/>eth in them.</p>
+               <p>And <hi>page</hi> 16. Where Juſtification with<g ref="char:EOLhyphen"/>in by the Spirit of God was proved by 1 <hi>Cor.</hi> 6.11. <hi>And ſuch were ſome of you, but ye are waſhed, but ye are ſanctified, but ye are juſtified in the Name of the Lord Je<g ref="char:EOLhyphen"/>ſus, and by the Spirit of our God:</hi> To this the Prieſt hath given his meanings to prove that we are not juſtified by the Spirit or righteouſneſs of Chriſt within; in theſe words, <hi>Viz.</hi> Prieſt. <hi>I might ſay, that perhaps the clauſe ſhould be referred to ſancti<g ref="char:EOLhyphen"/>fication, as if the order of the words had been, but ye are ſanctified by the Spirit of our God,</hi> (and he brings his tranſpoſition for it) from <hi>Mat.</hi> 7.6. <hi>Give not that which is holy to dogs, neither caſt your pearls before ſwine, leaſt they trample them under their feet, and turn again and rent you;</hi> (where ſaith he) <hi>turn again, and rent you, is to be joyned to the dogs;</hi> or elſe <hi>juſtified by the Spirit, may be meant of the Spirits application: I mean, the third Perſon in the Trinity, not of the work of grace, whereof we are the ſubject.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Here you may ſee how he hath given two meanings to one place, and what
+<pb n="22" facs="tcp:173008:14"/>folly hath proceeded from a Teacher, as in his inſtancing Doggs and Swine, for his matter of Juſtification, as he did at the diſpute with us, ſpeaking of Juſtification being Referred to the name of the Lord, &amp; not to the ſpirit, from the 1 <hi>Cor:</hi> 6: 11: as his inſtancing the Dogs returning to Rent, &amp; not the Swine (when as the Swine are not onely known to trample under foot, but alſo to rent and tear) and here he would divide the ſpirit of God from the name of Jeſus, when as his name and ſpirit are one; his name is called the word of God, and the Father, the Word, and the Spirit, are one, <hi>Rev:</hi> 19: 13: &amp; 1 <hi>Joh:</hi> 5: 7: And where doth he prove, that Juſtified by the Spirit (which he ignorantly calls the third Perſon in the Trinity) is not the work of Grace? here he would divide the Grace of God from the Spirit, was there ever ſuch confuſion? for the Saints were Juſtified freely by his Grace, which was one with the Spirit.</p>
+               <p>Prieſt: (pag 16.) <hi>For the Apoſtle aſſents the holineſſe of mans nature as a work of the Spirit, conforming it to the Law, to be the meritorious cauſe of our freedome from ſin.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> And yet he hath denyed Good works of obedience to be a deſerving cauſe
+<pb n="23" facs="tcp:173008:14"/>of Juſtification (ſee his confuſion:) what, is not Juſtification a freedome from ſin? See <hi>Act:</hi> 13: 39: And where doth he prove that the holineſſe of mans nature is a meritorious cauſe of freedome from ſin? ſeeing it is the ſame Spirit which frees man from ſinne, and brings him and his nature into conformity to the Law of Righteouſneſſe, through its Sanctifying, and Juſtifying him from the tranſgreſſion of the Law.</p>
+               <p>Thomas Danſon ſaith, (<hi>pag.</hi> 17.) from <hi>Rom.</hi> 8.4, 5. <hi>It imports the end for which God ſent Chriſt, that the righteouſneſs of the Law might be fulfilled in us: not in our own perſons, but in Chriſt; his righteouſ<g ref="char:EOLhyphen"/>neſſe Imputed to us, as if it had been inhe<g ref="char:EOLhyphen"/>rent in our ſelves.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Here again he hath perverted the Scripture by his falſe meaning, as if the Apoſtle had meant quite another thing then he ſpoke, when as if the Apoſtle had not meant the Righteouſneſſe of the Law fulfilled in their own perſons, he would not have ſaid fulfilled in us; neither would he have counted Chriſts righte<g ref="char:EOLhyphen"/>ouſneſs Inherent in themſelves, if he had not counted it in them (as this Prieſt doth) and the Apoſtle needed not ſpeak
+<pb n="24" facs="tcp:173008:15"/>of the Righteouſneſs of the Law being to be fulfilled in Chriſt, (as if it had not been fulfilled in Chriſt) but that it might be fulfilled in us, who walk not after the fleſh, but after the ſpirit, <hi>Rom.</hi> 8.4. ſo away with theſe falſe meanings, this Prieſt hath given.</p>
+               <p>And to <hi>S. Fiſhers</hi> ſpeaking of degrees among believers, as in 1 <hi>Joh.</hi> 2.13, 14. This Prieſt <hi>Danſon</hi> ſaith, <hi>I ſuppoſe that you mean that ſome of theſe have a mix<g ref="char:EOLhyphen"/>ture of ſin with their Grace.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> This is a falſe ſuppoſition, for the Grace of God which the Saints have is pure, and not mixed with ſin; for the mixture of ſin is in that which goeth from the Grace.</p>
+               <p>
+                  <hi>Thomas Danſon</hi> ſaith (<hi>pag.</hi> 18.) to S. F. <hi>you maintained that our Juſtification was by perſonal fulfilling of the Law, and now you Grant ſome perſons to be Juſtified, who never did fulfil it perſonally.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> In both theſe ſentences he hath wronged <hi>S. Fiſher:</hi> for that which he vin<g ref="char:EOLhyphen"/>dicated was what the Apoſtle witneſſed, that was the Righteouſneſs of the Law, being fulfilled by the ſpirit in the per<g ref="char:EOLhyphen"/>ſons of believers, without which work of the ſpirit in them, they were not Juſtified.</p>
+               <pb n="25" facs="tcp:173008:15"/>
+               <p> 
+                  <hi>Thomas Danſon</hi> (pag. 19.) ſaith: <hi>And Conſcience in the Saints being but in part cleanſed, as a witneſſe it teſtifies falſehood to them alſo: in that their eſtate is bad, when it is good.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> See the folly and confuſion this man is in, who would lay falſ-hood and badneſſe to the charge of the Saints Con<g ref="char:EOLhyphen"/>ſciences, and their good eſtate, as one that calls good evil, <hi>Iſa.</hi> 5.20. but the Conſciences of the Saints witneſſed truth to them, and not falſhood, for they wit<g ref="char:EOLhyphen"/>neſſed Sanctification throughout, in body, ſoul, and ſpirit, 1 <hi>Theſſ.</hi> 5.23. and, holi<g ref="char:EOLhyphen"/>neſſe perfected in the fear of God.</p>
+               <p>
+                  <hi>Thomas Danſon</hi> ſaith (pag. 21.) <hi>As Chriſt was made ſin for us, ſo are we the Righteouſneſſe of God in him: but the former was by Imputation, not Inherence; and there<g ref="char:EOLhyphen"/>fore ſo the other.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> This proves nothing againſt being Juſtified by Chriſts Righteouſneſſe within; but rather againſt him that hath perverted that Scripture, 2 <hi>Cor:</hi> 5: 21: for if our being made the Righteouſneſſe of God in Chriſt, be but like Chriſts be<g ref="char:EOLhyphen"/>ing made ſinne for us, (as this Prieſt Ima<g ref="char:EOLhyphen"/>gins) then he might as well ſay, that we ſhall have no Righteouſneſs of Chriſt in
+<pb n="26" facs="tcp:173008:16"/>us, neither muſt we do Righteouſneſſe at all; for Chriſt was made ſin for us who knew no ſin, (neither can he ſin) that we might be made the Righteouſneſſe of God in him, in whom their is no ſin: ſo that men are not made the Righte<g ref="char:EOLhyphen"/>ouſneſſe of God in Chriſt, while in their ſinnes, but as they are tranſlated into Chriſt through death, being baptized in<g ref="char:EOLhyphen"/>to the death of Chriſt, by putting off the body of the ſinnes of the fleſh; for Gods Righteouſneſſe is pure without ſin, and ſo are the believers made his Righte<g ref="char:EOLhyphen"/>ouſneſſe, See <hi>Rom:</hi> 6:4, 5, 6, 7: <hi>Col:</hi> 2:11, 12: 1 <hi>Joh:</hi> 3:5, 6.</p>
+               <p>
+                  <hi>Prieſt,</hi> And to prove two Righteouſ<g ref="char:EOLhyphen"/>neſſes of Chriſt, this ſaid Prieſt ſaith, <hi>do you think that the Righteouſneſſe, which the Apoſtle calls his own was not Chriſts?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> See this mans ignorance of Chriſt's Righteouſneſſe which the Apo<g ref="char:EOLhyphen"/>ſtle deſired to have, and not his owne, <hi>Phil:</hi> 3:9: Now he that counts the Apo<g ref="char:EOLhyphen"/>ſtles own Righteouſneſſe, (which he de<g ref="char:EOLhyphen"/>nyed to have) Chriſts Righteouſneſs, he might as well ſay that the Apoſtle deſired not to have Chriſt's Righteouſneſſe, which is but one; but herein his folly is diſcove<g ref="char:EOLhyphen"/>red.</p>
+               <pb n="27" facs="tcp:173008:16"/>
+               <p> And whereas at our diſpute, <hi>Thomas Danſon denyed that the Saints were Juſtified by that Chriſt that was in them:</hi> now to ex<g ref="char:EOLhyphen"/>cuſe his matter, he ſaith, he will Anſwer me more punctually; and his Anſwer is, (<hi>Prieſt</hi> pag. 22.) <hi>The Scripture by Chriſt within us, underſtands not the perſon of Chriſt, but his operations, the cauſe is put for the effect by a Metynomy; Com<g ref="char:EOLhyphen"/>pare</hi> Colloſ. 1.26. <hi>Chriſt in you, with</hi> Epheſ. 3.17. <hi>that Chriſt may dwell in your hearts by faith, and therefore it followes not that we make two Chriſts.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> To deny that the Saints were Juſtified by that Chriſt within, is to Preach two Chriſts; ſeeing he hath own<g ref="char:EOLhyphen"/>ed that Chriſt is in them. And to ſay that the Scripture by Chriſt within us, underſtands his operations: what dark<g ref="char:EOLhyphen"/>neſſe is this! where did ever the Apoſtle ſay that the operations or works of Chriſt, are Chriſt? or put a Metonymy upon his words as thou haſt done? (who falſly haſt called that a word too hard for my Capacity:) And Faith, Repen<g ref="char:EOLhyphen"/>tance, Regeneration, are opperated (or wrought,) by Chriſt; but doth the Scrip<g ref="char:EOLhyphen"/>ture ſay that Repentance is Chriſt, or Regeneration is Chriſt? this Prieſt hath
+<pb n="28" facs="tcp:173008:17"/>made it appear that he neither right<g ref="char:EOLhyphen"/>ly knowes Chriſt, nor his workes, who diſcernes not the one from the other.</p>
+               <p>And again, he hath confuted him<g ref="char:EOLhyphen"/>ſelf (the Prieſt in pag. 23. he ſaith) <hi>The Scripture ſpeaks of two Chriſts: Chriſt Perſonal, and Chriſt Myſtical; if I ſhould ſay, not Chriſt Myſtical, but Chriſt Perſonal is our Saviour, would you not ſpeak wiſely think you, to ſay,</hi> Oh! <hi>you make two Chriſts; this diſtinction you may finde; and to prove a Chriſt Perſonal, he brings</hi> Coloſ. 2.8, 9. <hi>and Chriſt Miſtical, he brings</hi> 1 Cor: 12:12:</p>
+               <p>
+                  <hi>Anſw.</hi> He hath here perverted theſe Scriptures, in going about to prove two Chriſts, which before he denyed; and in denying Chriſt Myſtical to be our Saviour: for Chriſt is but one and the ſame for ever, who is the Myſtery hid from Ages and Generations, Chriſt in you the hope of Glory, <hi>Col:</hi> 1: 27: and ye are ſaved by hope, <hi>Rom:</hi> 8: 24: And Chriſt ſaith, <hi>I in them, and thou in me, that they may be made perfect in one,</hi> &amp;c. <hi>Joh:</hi> 17: 23: So now they that heard <hi>Thomas Danſon</hi> at the diſpute, deny that he Preached Two Chriſts, may now ſee
+<pb n="29" facs="tcp:173008:17"/>that he hath preached two Chriſts, and how therein the Truth hath contradi<g ref="char:EOLhyphen"/>cted him, and where this ſaid Prieſt in <hi>George Whiteheads</hi> name ſaith,</p>
+               <p>Prieſt; I <hi>will prove by the Scriptures, that we are Juſtified by our Sanctifica<g ref="char:EOLhyphen"/>tion.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> In this he hath wronged <hi>Geo: Whitehead,</hi> as in ſeveral other things, for the words were not ſo ſpoken by <hi>George Whitehead,</hi> but what if the words had been ſo ſpoken? Chriſt is made to us Wiſedome, Righteouſneſſe, Sanctification and Redemption, and by this Chriſt are we Juſtified, and no other, 1 <hi>Cor.</hi> 1.30.</p>
+            </div>
+            <div n="4" type="part">
+               <head>IV. <hi>Concerning the Scriptures.</hi>
+               </head>
+               <p>Prieſt, <hi>THomas Danſon</hi> hath gone about to prove <hi>the Scriptures the word of God, and the rule of Faith and Life,</hi> (and in page 29. he ſaith) <hi>their is no other ſtanding rule but the Scriptures.</hi>
+               </p>
+               <pb n="30" facs="tcp:173008:18"/>
+               <p> 
+                  <hi>Anſw.</hi> The Word of God is in the heart of every one that believeth in Chriſt, and ſuch are taught how to walk by that Word, or Anointing in them; and that is their ſtanding rule, and the Spirit of Truth leadeth them into all Truth; and of this Word or Spirit, (which this Prieſt hath ſhewed his Igno<g ref="char:EOLhyphen"/>rance of) the Scriptures are a true de<g ref="char:EOLhyphen"/>claration, but are not the Word, or Spirit, though Words of God be Re<g ref="char:EOLhyphen"/>corded in them; and if there be no o<g ref="char:EOLhyphen"/>ther ſtanding rule but the Scriptures, as this ſaid Prieſt ignorantly hath affirmed, Then what was their rule, who ſpoke forth the Scriptures? and what was the <hi>Gentiles</hi> rule, who not having the Law, yet did thoſe things contained in the Law? <hi>Rom:</hi> 2: 14: and what muſt be their rule, who cannot read the Scriptures? they have ſouls to be ſaved as well as others, and are not to be condemned becauſe they cannot read the Scriptures; but if they be diſobedient to the light in them, which manifeſts in them the righ<g ref="char:EOLhyphen"/>teous Law of God, then they are condem<g ref="char:EOLhyphen"/>ned: and do the Prieſts believe that all that could not read the Scriptures without, were without a rule, and were all condemned,
+<pb n="31" facs="tcp:173008:18"/>ſeeing thus they have affirmed no other ſtanding rule but the Scriptures, which by the Scriptures they cannot prove.</p>
+               <p>
+                  <hi>Prieſt, Joh:</hi> 20: 30, 31: And many other ſignes truly did Jeſus, in the preſence of his Diſciples, which are not written in this book, but theſe are written that ye might believe, &amp;c. <hi>Suppoſe that we had the ſignes which are not faithfully Record<g ref="char:EOLhyphen"/>ed in writing; yet were they not our rule, becauſe God did not give order for them, but has aſſured us, as much as is ſufficient to create, and preſerve faith in the Goſpel, which we have.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> So then, he having owned no other ſtanding rule of Faith and Life, but the Scriptures, in theſe his words, he intendes theſe Scriptures that are up<g ref="char:EOLhyphen"/>on Record, are ſufficient to create and preſerve Faith in the Goſpel; which how falſe this is, its eaſie to ſee, for faith is the gift of God, not created and pre<g ref="char:EOLhyphen"/>ſerved by the Scriptures (though they were written to be believed) but by Chriſt the author of faith, and this is the work of God, that yee believe in him whom God hath ſent, <hi>Joh:</hi> 6: 29: And again, this Prieſt in his affirming
+<pb n="32" facs="tcp:173008:19"/>no other rule but what we have Re<g ref="char:EOLhyphen"/>corded in Scripture, if the fignes that Chriſt did, were all faithfully Record<g ref="char:EOLhyphen"/>ed (which are not) he hath plainly contradicted himſelf, in pag. 44. in his ſaying, <hi>that thoſe things that were not written might have been uſeful, if they had been written, for they were done for the very ſame end, with thoſe which are left us, &amp;c.</hi> ſo then many things that are not written in Scripture might have been as uſeful, as that which is written in the Scriptures, if they had been Re<g ref="char:EOLhyphen"/>corded; See the confuſion of theſe Prieſts, that profeſſe the Scriptures, which are Recorded to be the word of God; and the onely rule of Faith and Life; and how therein they deny the leading of the Spirit of Truth, and its ſufficien<g ref="char:EOLhyphen"/>cie.</p>
+               <p>
+                  <hi>Prieſt,</hi> ſaith, <hi>As for your participation of the Infallible Spirit (if that were granted) that inferres not a participation of the Spirits infallibility,</hi> pag. 32.</p>
+               <p>
+                  <hi>Anſw.</hi> This tends to divide the Spi<g ref="char:EOLhyphen"/>rit from its infallibility, as if ſuch as partake of the Spirit, do not partake of its infallibility, was there ever ſuch fol<g ref="char:EOLhyphen"/>ly as this? ſeeing that the Spirit of Truth
+<pb n="33" facs="tcp:173008:19"/>leads them that partake of it, into all Truth, which is infallible.</p>
+               <p>Prieſt. <hi>As for our want of infallibility, tis no valid plea againſt our Miniſtery,</hi> page 33. and another ſuch a like Doctrine he hath laid down in page 46. <hi>that the Spirit of God may accompany a Miniſtry, and the Miniſter not have the Spirit,</hi> and to prove theſe he hath brought <hi>Acts</hi> 20.17. <hi>alſo of your own ſelves ſhall men ariſe ſpeaking per<g ref="char:EOLhyphen"/>verſe things, &amp;c.</hi> and <hi>Matth.</hi> 23.2, 3. <hi>the Scribes and Phariſees ſit in Moſes ſeat, &amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> His falſehood here Appeares plainly, for they that want infallibility, and have not the Spirit of Chriſt, they are out of the Truth, and are fallible, and their Miniſtry is not of the Spirit, ſeeing they ſpeak not from the Spirit, but from their own hearts, which are deceitful, where they want infallibility; ſo out of the a<g ref="char:EOLhyphen"/>bundance of the heart the mouth ſpeak<g ref="char:EOLhyphen"/>eth: And how can ye being evil ſpeak good things? <hi>Matth.</hi> 12.34. and they that ran, and the Lord ſent them not, they pro<g ref="char:EOLhyphen"/>fited not the people at all, <hi>Jer.</hi> 23. and the Scribes and Phariſees, and them that ſpoke perverſe things againſt the Apoſtles, the Spirit did not then accompany what they miniſtred; they being out of the Spirit.</p>
+            </div>
+         </div>
+         <div type="answer">
+            <pb n="34" facs="tcp:173008:20"/>
+            <head>Here followeth ſomething in an<g ref="char:EOLhyphen"/>ſwer to what the ſaid <hi>Tho<g ref="char:EOLhyphen"/>mas Danſon</hi> hath replyed to <hi>Richard Hubberthornes</hi> Pa<g ref="char:EOLhyphen"/>per, Tituled, the difference of that call of God to the Mini<g ref="char:EOLhyphen"/>ſtry, &amp;c.</head>
+            <p>PRieſt ſaith, <hi>None of my people can ſet to their ſeal that my Miniſtry hath brought them to a perfect man. Tis readi<g ref="char:EOLhyphen"/>ly granted, Nor was the Miniſtry intend<g ref="char:EOLhyphen"/>ed for that end,</hi> (pag. 35.)</p>
+            <p>
+               <hi>Anſw.</hi> This is falſe Doctrine, for the true Miniſtry, was for the perfecting of the Saints, till all come into the unity of the Faith, and the knowledge of the Son of God unto a perfect man, <hi>Epheſ.</hi> 4: 11, 12, 13. So that Miniſtry of theirs which is not for the perfecting, is a falſe Miniſtry.</p>
+            <p>Prieſt. <hi>My words were, that the Goſpel is
+<pb n="35" facs="tcp:173008:20"/>an external light as that of the ſun.</hi>
+            </p>
+            <p>
+               <hi>Anſw:</hi> That alſo is falſe, for the Goſ<g ref="char:EOLhyphen"/>pel is the power of God, which is inviſi<g ref="char:EOLhyphen"/>ble, <hi>Rom:</hi> 1: 16: 20: and not external as the light of the Sun: for that is created, but the Goſpel is Eternal.</p>
+            <p>Prieſt. <hi>That I denied, that the Saints were juſtified by that Chriſt that was in them:</hi> To which he replies to <hi>Rich. Hub. Thou loveſt lying, rather then to ſpeake righteouſneſs,</hi> Pſal. 52.3.</p>
+            <p>Anſ. <hi>Rich. Hub.</hi> hath not belyed thee at all, for when I asked thee whether the Saints were juſtified by that Chriſt that was in them, yea or nay, thou anſweredſt no, as many heard thee; ſo ſeek not to blind people with covering thy errors, as now thou wouldſt in pretending that it is but one and the ſame Chriſt that juſtifies and ſanctifies, wherein thou haſt flatly confu<g ref="char:EOLhyphen"/>ted thy ſelf; for if it be the ſame Chriſt that juſtifies and ſanctifies, then its but one and the ſame righteouſneſs which ef<g ref="char:EOLhyphen"/>fecteth both theſe, in and for the Saints: And ſee how again, thou haſt contradict<g ref="char:EOLhyphen"/>ed thy ſelf in owning but one Chriſt, when in <hi>page</hi> 23. thou haſt plainly affirmed two Chriſts, Chriſt perſonal, and Chriſt my<g ref="char:EOLhyphen"/>ſtical, and ſo haſt ſhewed thy ſelf to be of
+<pb n="36" facs="tcp:173008:21"/>Antichriſt, for the Saints preached but one Chriſt which was in them, their hope, and he it is, whoſe fulneſs is thorow all, fil<g ref="char:EOLhyphen"/>ling all things; ſo he that preacheth ano<g ref="char:EOLhyphen"/>ther Goſpel or Chriſt, then the Saints preached, let him be accurſed, <hi>Gal.</hi> 1.9.</p>
+            <p>Prieſt. <hi>The righteouſneſs which God works in us, is but finite, as well as other effects,</hi> p. 39.</p>
+            <p>
+               <hi>Anſ.</hi> And yet this ſaid Prieſt in <hi>p.</hi> 37. hath owned that the righteouſneſs whereof Chriſt is the ſubject, and that whereof he is the efficient, are of one ſpecies (or kinde;) ſee his confuſion; then I ſay the righte<g ref="char:EOLhyphen"/>ouſneſs which God effects in us, is not fi<g ref="char:EOLhyphen"/>nite but infinite; for Chriſt is Gods righ<g ref="char:EOLhyphen"/>teouſneſs, and Chriſt is formed in us, <hi>Gal.</hi> 4.19. and ſo that righteouſneſs which God works in us by his Spirit, its of the ſame kind and nature with that which worketh it, for the Saints are made par<g ref="char:EOLhyphen"/>takers of the divine nature, 2 <hi>Pet.</hi> 1.4. which this Prieſt being ignorant of, he confutes himſelf, and ſuch would divide the juſti<g ref="char:EOLhyphen"/>fying righteouſneſs from being in the Saints, and would make that righteouſneſs in them but finite, when as Chriſt his in<g ref="char:EOLhyphen"/>finite righteouſneſs, and the Saints, are in one another, in one Covenant; and <hi>he that ſanctifieth, and they that are ſanctified are
+<pb n="37" facs="tcp:173008:21"/>one,</hi> Heb. 2.11. and whatſoever God doth, it ſhall be for ever, <hi>Eccleſ.</hi> 3.14. then Gods righteouſneſs in us, is not finite, but infi<g ref="char:EOLhyphen"/>nite.</p>
+            <p>In page 40 and 41. (the Prieſt ſaith) <hi>I af<g ref="char:EOLhyphen"/>firmed, and do among thoſe that hear the Go<g ref="char:EOLhyphen"/>ſpel, ſalvation is offered, to more then to whom it is intended: I ſhould rather think our preaching is to more purpoſe, becauſe we know not who are elected, for the ignorance of that gives us a ground to hope well of any man.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Here people may ſee the Prieſts Igno<g ref="char:EOLhyphen"/>rance concerning Salvation, and how their hope is grounded upon their Ignorance; but Chriſt is Gods ſalvation to the ends of the earth, offered to all men, with an intent that they might beleeve and be ſaved; and for them that are condemned, it is not becauſe Salvation was not intended of God for them, but becauſe that when Salvation was offered and intended to them, they beleeved not in it, as a promiſe of entring into Gods reſt may be left un<g ref="char:EOLhyphen"/>to a people, and yet they not enter into the reſt becauſe of their unbelief, <hi>Heb.</hi> 4. And men are not condemned, for want of ha<g ref="char:EOLhyphen"/>ving a ſaving light given them, or becauſe God hath afore purpoſed their deſtruction, and thereupon deprived them of ſaving
+<pb n="38" facs="tcp:173008:22"/>grace, (as the Prieſts imagine) but <hi>this is the condemnation, that light is come into the world, and men loved darkneſs rather then the light,</hi> John 3.19. And Chriſt came not to condemn the world, but to ſave the world; ſo that theſe Prieſts who are ignorant of the elect, and have their hope of any mans welfare grounded upon that Ignorance, their hope is a falſe and a blind hope, for how can they hope well of any man, when they know not who are elected, and do not beleeve that ſalvation is intended, as free for all men? ſo herein have the Prieſts largely made manifeſt their blindneſs, and their blind hope, and their preaching and praying for people to be of none effect; for if ſalvation be not free, or not inten<g ref="char:EOLhyphen"/>ded for all, to what purpoſe is the Prieſts bidding all their Hearers lay hold upon Chriſt, and putting them all into a hope, for that which they ſay was never inten<g ref="char:EOLhyphen"/>ded for many of them? but herein is their ignorance and blind hope, which they ſtrive to beget people into plainly mani<g ref="char:EOLhyphen"/>feſted; for the true hope is not grounded upon Ignorance, but in that ſpirit where<g ref="char:EOLhyphen"/>by the precious is diſcerned from the vile, and the ſheep known from the goats, by the true Shepherds and Miniſters.</p>
+            <pb n="39" facs="tcp:173008:22"/>
+            <p> Prieſt: <hi>That the Spirit was not wont to be effectual without the Letter, or that he wrought upon the ſouls of men, in and by the Letter of the Word, and I gave you that inſtance,</hi> Rom. 10.17. <hi>Faith comes by hearing, and hearing by the Word of God.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> He might as well have ſaid, That the Apoſtle <hi>Pauls</hi> Miniſtry was not wont to be effectual, as to ſay, That the Spirit was not not wont to be effectual without the Let<g ref="char:EOLhyphen"/>ter; for <hi>Paul</hi> was not a Miniſter of the Let<g ref="char:EOLhyphen"/>ter (or Writing) but of the Spirit, or of the thing declared of, 2 <hi>Cor.</hi> 3: 6. and as for that of <hi>Rom:</hi> 10: 17: that <hi>hearing comes by the Word of God,</hi> that is againſt this ſaid Prieſts principle, for there is a difference between the Word and the Letter; The Word <hi>liveth and abideth for ever,</hi> 1 <hi>Pet:</hi> 1:23. ſo doth not the Letter; and the Spirit was wont to be effectual among the Saints, Pa<g ref="char:EOLhyphen"/>triarcks and Prophets, before the Letter was written or given forth; and the Spirit or Word was effectual among the Gentiles, who had not the Law or Letter of it, (out<g ref="char:EOLhyphen"/>wardly) ſo how Ignorant theſe Prieſts are of the Spirits efficacy, all that know it may eaſily judge, and how would they ever con<g ref="char:EOLhyphen"/>vince the <hi>Turks</hi> or <hi>Heathens</hi> of Chriſt with their preaching, if the Spirit be not ef<g ref="char:EOLhyphen"/>fectual
+<pb n="40" facs="tcp:173008:23"/>without the Letter?</p>
+            <p>Prieſt. <hi>That the works of Chriſt in ſome reſpect are not perfect, I ſpake theſe words in reference to ſanctification, which I affirmed to be imperfect in this life,</hi> p. 44.</p>
+            <p>
+               <hi>Anſ.</hi> Here he hath falſely charged the works of Chriſt with imperfection, for all the works of God are perfect: <hi>And by one offering God hath for ever perfected them that are ſanctified,</hi> Heb. 10: 14: And Chriſt per<g ref="char:EOLhyphen"/>fecteth the work of ſanctification in them that beleeve, as Chriſt ſaid; <hi>Sanctifie them through thy truth, thy word is truth, and the glory which thou gaveſt me, I have given them that they may be one, even as we are one; I in them, and thou in me, that they may be made perfect in one,</hi> ſee <hi>John</hi> 17.17, 21, 22, 23: and the Apoſtle witneſſed to a ſanctification <hi>throughout in body, ſoul and ſpirit,</hi> 2 Cor. 7: 1: 1 Theſ: 5: 23: and Chriſt is come through<g ref="char:EOLhyphen"/>ly to purge the floor, ſo that his work of Sanctification is not imperfect, as this Prieſt hath falſely affirmed, but perfect:</p>
+            <p>Prieſt: <hi>Not every gift of God is perfect,</hi> page 44:</p>
+            <p>
+               <hi>Anſ:</hi> Here hath the Spirit of Antichriſt appeared, which hath not only accuſed the Saints, and the work of Chriſt with im<g ref="char:EOLhyphen"/>perfection in this life, but hath ſo accuſed
+<pb n="41" facs="tcp:173008:23"/>ſome gift of God with not being perfect, when as <hi>every good and perfect gift comes from God, Jam.</hi> 1.17. Then what gift of God is it that he eſteems not perfect?</p>
+            <p>Pr. <hi>The Goſpel gives life upon imperfect obedience.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> And yet before, he denyed our good works of obedience to be a deſerving cauſe of Juſtification, when now were his words owned for truth, then imperfect obedience is ſo farre deſerving, that the Goſpel gives life upon it, (where's the ranck Papiſt now) but here alſo he is in Errour; for the Goſpel gives life upon believing in the light, which is the work of God; and the work of God is perfect, ſaith Chriſt, He that believeth in me, though he were dead, yet ſhall he live.</p>
+            <p>Pr. To prove <hi>Tho. Rumſeys</hi> falſe doctrin, which was, <hi>That we preach a doctrine of De<g ref="char:EOLhyphen"/>vils, in ſaying, that men may be free from ſin in this life; (this Prieſt ſaith)</hi> David <hi>was not free, from the being of ſinne, but a ſad in<g ref="char:EOLhyphen"/>ſtance of the power of it in real Saints, and yet he was a pattern to New-Teſtament Saints,</hi> Zech. 12.8.</p>
+            <p>
+               <hi>Anſw.</hi> That Scripture, Zechariah 12.8. doth prove both <hi>Tho. Rumſeys,</hi> and <hi>Thomas Danſons</hi> doctrines falſe; for the words of
+<pb n="42" facs="tcp:173008:24"/>that Scripture are theſe, <hi>In that day ſhall the Lord defend the Inhabitants of</hi> Jeruſalem, <hi>and he that is feeble among them at that day, ſhall be as</hi> David, <hi>and the houſe of</hi> David <hi>ſhall be as God, as the Angel of the Lord, before them:</hi> So then if <hi>David</hi> was made a pattern to New Teſtament-Saints, and the houſe of <hi>David be as God,</hi> yea as the Angel of the Lord; then was <hi>David</hi> and the New-Te<g ref="char:EOLhyphen"/>ſtament Saints freed from ſin, for in God is no ſin, and then real Saints had not the power of ſin remaining in them, as <hi>Tho. Rumſey</hi> and <hi>Tho. Danſon</hi> hath accuſed them to their own ſhame, in counting that a Doctrine of Devils, which was the Saints Doctrine, who witneſſed a waſhing from all filthineſs, <hi>Ezek.</hi> 36.25. And <hi>Paul</hi> wit<g ref="char:EOLhyphen"/>neſſed to a freedom from ſin, <hi>Rom.</hi> 6.18, 22. and for calling this Doctrine a doctrine of devils, God will call <hi>Tho. Rumſey</hi> and <hi>Tho. Danſon</hi> to an account, and they will never be clear from the guilt of their blaſ<g ref="char:EOLhyphen"/>phemy herein without Repentance; and I beleeve that all people that fear the Lord that ſee this, will ſee their doctrine to be a doctrine of Devils, in their pleading for ſin, and counting that to be a doctrine of Devils which they that were of God ow<g ref="char:EOLhyphen"/>ned, and which all muſt come to witneſs,
+<pb n="43" facs="tcp:173008:24"/>who ever come to be ſaved, for there is no unclean thing muſt enter into Chriſts Kingdom; therefore people muſt either expect freedom from ſin in this life, or ne<g ref="char:EOLhyphen"/>ver, for it was the unbeleevers that died in their ſins, <hi>John</hi> 8.21.24. and there is no hope in the grave, but as the tree falls, ſo it lyes, and every one ſhall be rewarded according to their deeds done in the bo<g ref="char:EOLhyphen"/>dy; and the ſoul that ſinneth it ſhall die; but <hi>bleſſed are the dead that die in the Lord, for their works ſhall follow them;</hi> and they that die in Chriſt, die in him in whom there is no ſin.</p>
+            <p>And now <hi>Tho. Danſon,</hi> whereas thou haſt made much ado in thy lying Narrative, a<g ref="char:EOLhyphen"/>bout a man that accuſed a Miniſter, for ſay<g ref="char:EOLhyphen"/>ing that <hi>Sam. Fiſher</hi> had received a Pen<g ref="char:EOLhyphen"/>ſion from the Pope at <hi>Rome,</hi> and thy cavil is, about the mans being miſtaken con<g ref="char:EOLhyphen"/>cerning the Miniſter: To which I ſay, if thou wert not a man that rejoyceſt in ini<g ref="char:EOLhyphen"/>quity, thou wouldſt never have ſo far re<g ref="char:EOLhyphen"/>joyced in that mans weakneſs, as to publiſh that thing again, ſince the man confeſſed his miſtake and weakneſs in laying it upon the wrong party; which if thou wouldſt as well confeſs thy Errors as he did his, there were the better hope of thee, that
+<pb n="44" facs="tcp:173008:25"/>thou wouldſt forſake thy errors and lies, and thine and thy hearers lightneſs and prophaneneſs was plainly then made ap<g ref="char:EOLhyphen"/>pear to your ſhame. And whereas thou confeſſeſt, That it was the Miniſter of <hi>Staple; Viz.</hi> Mr. <hi>Robert Wilkinſon</hi> (as thou calleſt him) that ſo accuſed <hi>Samuel Fiſher</hi> (behinde his back) with receiving a Pen<g ref="char:EOLhyphen"/>ſion from the Pope, and thou goeſt about to maintain this accuſation againſt <hi>Sa<g ref="char:EOLhyphen"/>muel Fiſher,</hi> in thy ſaying its as probably true, <hi>&amp;c.</hi>
+            </p>
+            <p>Now that accuſation againſt <hi>Sam. Fiſher</hi> do I return back again upon thee, and that Prieſt of <hi>Staple,</hi> as an invented lye, and a ſlander of your own; and God will judge you for it, and <hi>Samuel Fiſher,</hi> and all who know his innocency and freedome from having any fellowſhip with the Pope, or his corrupt ways, may witneſs againſt thee, and the Prieſt of <hi>Staple,</hi> to be lyers and ſlande<g ref="char:EOLhyphen"/>rers (in this thing mentioned) ſo to be in the work of your Father the Devil: And here it is evident thou haſt ſhot in the Devils bow, as I told thee before, (accord<g ref="char:EOLhyphen"/>ing to thy own words) and in the latter end of thy matter thou telleſt a Story to move the Reader to laughter (as thou ſay<g ref="char:EOLhyphen"/>eſt) yea thou haſt largely manifeſted thy
+<pb n="45" facs="tcp:173008:25"/>folly, and thy light ſpirit who would move people to madneſs, <hi>Eccleſ.</hi> 2.2. And that thou art one of the falſe Prophets, who by their lyes and lightneſs made the people light and vain; and where thou haſt ſeveral times ſpoken to us, as if we were put to ſilence, or our mouths ſtopt at the diſpute with thee; it appears herein thou wouldſt make people beleeve, as if thou put us to ſilence with thy Arguments, but thou may<g ref="char:EOLhyphen"/>eſt remember it was otherwiſe; for ſeve<g ref="char:EOLhyphen"/>ral times when I, or <hi>Richard Hubberthorn</hi> ſhould have ſpoken, the Magiſtrates and others of thy hearers made ſuch a howling, and a hideous noiſe, (whoſe iniquities thou partookſt of, in joyning in thy lightneſs with them) that we could not be heard ſpeak; and other times with thy lightneſs, thou ſtirred up lightneſs in them; and at the firſt days diſpute with thee, when I be<g ref="char:EOLhyphen"/>gan to anſwer thee, after <hi>Sam. Fiſher</hi> had ſpoken to thee, thou offeredſt to go away ſeveral times, becauſe I ſpoke; And at the latter days diſpute, when thou waſt enſna<g ref="char:EOLhyphen"/>red whilſt I ſpoke to thee, ſome of the Ma<g ref="char:EOLhyphen"/>giſtrates threatned to break up the meet<g ref="char:EOLhyphen"/>ing, if I would not lay down the Diſpute, and let another take it.</p>
+            <p>Prieſt. <hi>And whereas thou accuſeſt</hi> Samuel
+<pb n="46" facs="tcp:173008:26"/>Fiſher <hi>with being ſilent, and thereupon inter<g ref="char:EOLhyphen"/>preteſt his ſilence to be conſent to the horrid</hi> Arrian <hi>blaſphemy.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> The ſame falſe accuſing Spirit in this Prieſt, would have accuſed Chriſt with being guilty of blaſphemy, when he was ſilent, and opened not his mouth, be<g ref="char:EOLhyphen"/>fore his accuſers, the Jews and chief Prieſts. And as for the reſt of <hi>Tho. Danſons</hi> torn confuſed language, and ſeveral more lyes, and falſe accuſations in his Book and Nar<g ref="char:EOLhyphen"/>rative (which I could further make ma<g ref="char:EOLhyphen"/>nifeſt) I let them paſs as things not worth anſwering, but to be trampled under feet by them that are in the light, which diſ<g ref="char:EOLhyphen"/>covers all ſuch blind Watchmen and Shep<g ref="char:EOLhyphen"/>herds that cannot underſtand, whoſe naked<g ref="char:EOLhyphen"/>neſs and ſhame the Lord God is diſcovering to the ſimple-hearted; and if <hi>Thomas Dan<g ref="char:EOLhyphen"/>ſon,</hi> or any of his brethren in iniquity, proceed to broach their lyes, confuſion, and ſlanders againſt the truth, or againſt us who own it, as in his pride and enmi<g ref="char:EOLhyphen"/>ty he hath done in his confuſed Book, they may truly expect that the Truth will further make manifeſt their folly and deceit.</p>
+            <p>And now that they that deſire any fur<g ref="char:EOLhyphen"/>ther to ſee more of <hi>Thomas Danſons</hi>
+               <pb n="47" facs="tcp:173008:26"/>Doctrines, which he affirmed at the Di<g ref="char:EOLhyphen"/>ſputes with us; to the matter of which Doctrines this foregoing Treatiſe contains an Anſwer, and which are Anſwered and Confuted in <hi>Richard Hubberthornes</hi> book, Titled, <hi>(The difference of that Call of God to the Miniſtry, &amp;c.)</hi> they may ſee and con<g ref="char:EOLhyphen"/>ſider his falſe doctrines as followeth; and ſee how unfit, he is to be counted a Mini<g ref="char:EOLhyphen"/>ſter of Chriſt, and how unlikely he is to convert any to Chriſt, while he preacheth ſuch Doctrines.</p>
+            <p n="1">1. <hi>Prieſt.</hi> Tho. Danſon <hi>Affirmed, That it is non-ſence to ſay, that a man is made a Miniſter by the gift of grace.</hi>
+            </p>
+            <p n="2">2. <hi>That he pretends to no infallibility in Miniſtry.</hi>
+            </p>
+            <p n="3">3. <hi>That every individual man was not in<g ref="char:EOLhyphen"/>lightned by Chriſt.</hi>
+            </p>
+            <p n="4">4. <hi>That the Goſpel is an external light, and not inviſible.</hi>
+            </p>
+            <p n="5">5. <hi>That Chriſt being the propitiation for the ſinnes of the whole world (as</hi> John <hi>ſaid</hi>) 1 John 2.2. <hi>is meant onely the world of be<g ref="char:EOLhyphen"/>lievers.</hi>
+            </p>
+            <p n="6">6. <hi>That they muſt reconcile the Scriptures to themſelves.</hi>
+            </p>
+            <p n="7">7. <hi>That the law of the Spirit of life in
+<pb n="48" facs="tcp:173008:27"/>Chriſt, was not the law of the Spirit in the Saints.</hi>
+            </p>
+            <p n="8">8. <hi>That there were two Righteouſneſſes of Chriſt; the one without the Saints to juſtifie them, and the other within the Saints, that did ſanctifie them.</hi>
+            </p>
+            <p n="9">9. <hi>That the Saints were not juſtified by that Chriſt within them (and ſince that he hath affirmed two Chriſts) Chriſt perſonal, and Chriſt Myſtical.</hi>
+            </p>
+            <p n="10">10. <hi>That</hi> David, <hi>when he was guilty of adultery and murther, was not in a condemned eſtate, but in a juſtified eſtate.</hi>
+            </p>
+            <p n="11">11. <hi>And concerning them in</hi> Heb. 12. <hi>who were come unto the ſpirits of juſt men made perfect</hi> (the ſaid Prieſt) <hi>ſaid it was meant, that they were in Heaven, and not upon earth.</hi>
+            </p>
+            <p n="12">12. <hi>That, that which fitted men for the inheritance, (among the Saints) did not en<g ref="char:EOLhyphen"/>title them to the inheritance.</hi>
+            </p>
+            <p n="13">13. <hi>That we cannot contain an infinite Righteouſneſſe in us.</hi>
+            </p>
+            <p n="14">14. <hi>That God offers ſalvation to all men, but he intends it but to a few.</hi>
+            </p>
+            <p n="15">15. <hi>That a Miniſter of the Goſpel doth not know who are elected.</hi>
+            </p>
+            <p n="16">16. <hi>That the ſword of the Spirit is In<g ref="char:EOLhyphen"/>effectuall without the Letter.</hi>
+            </p>
+            <p n="17">
+               <pb n="49" facs="tcp:173008:27"/> 17. <hi>That there was no Scripture written, but what is extant, and in the Bible.</hi>
+            </p>
+            <p n="18">18. <hi>That the Letter doth ante-cede, and go before the Spirit in all that walked in the Spirit.</hi>
+            </p>
+            <p n="19">19. <hi>That Chriſt choſe a Devil to be one of his Miniſters, &amp;c.</hi>
+            </p>
+            <p n="20">20. <hi>That the Spirit of God may accompany a Miniſtery, and the Miniſter not have the Spirit.</hi>
+            </p>
+            <p>And ſeveral other ſuch like falſe Doctrines did the ſaid Prieſt affirme, which the true Miniſters never did, which manifeſts his want of the Spirit of truth, and the infallibility of it; ſo that all, that know the ſpirit of truth, may ſee him to be fallible.</p>
+            <p>And indeed, its no marvel, that <hi>Eng<g ref="char:EOLhyphen"/>land</hi> hath ſo long been in darkneſſe, and people have long wanted ſatisfaction to their ſouls; ſeeing their Teachers are ſuch as feed themſelves, and not the flock; and take money and hire of the people for their preaching, contrary to the example of the true Miniſters; and not onely ſo, but they preach ſuch falſe doctrines, as this Prieſt hath done for hire: and truly, long may the people be deſtroyed for want of
+<pb n="50" facs="tcp:173008:28"/>knowledge, while they follow ſuch Shep<g ref="char:EOLhyphen"/>herds as cannot underſtand the things pertaining to Salvation, for they being ſuch as rebel againſt the light, not abide<g ref="char:EOLhyphen"/>ing in the path of it, nor knowing the way of it, <hi>Job</hi> 24.13. they contend againſt its be<g ref="char:EOLhyphen"/>ing in the rebellious: And they being ſuch covetous men as have eyes full of adultery, that cannot ceaſe from ſin; they plead for ſinne againſts Chriſts juſtifying Righte<g ref="char:EOLhyphen"/>ouſneſſe, and perfection, made manifeſt in the Saints on earth, 2 <hi>Pet.</hi> 2.14.</p>
+            <p>And ſo they being ignorant of Gods Righteouſneſſe, and his works in his peo<g ref="char:EOLhyphen"/>ple, which are perfect, they go about to eſtabliſh Imperfection; and ſo many are alwayes learning among them, and loaden with ſinnes and iniquities, and never able to come to the knowledge of the truth, nor know freedome from the ſinne which doth burthen their ſouls, ſo long as they look for help among ſuch miſerable Com<g ref="char:EOLhyphen"/>forters as theſe Shepherds are, that plead for ſinne, and Imperfection in this Life.</p>
+            <p>But now is the Lord manifeſting his glory, and cauſing his light to break forth as the morning, that the darkneſs may be expel'd, &amp; the clouds of ignorance removed from
+<pb n="51" facs="tcp:173008:28"/>off the underſtandings of many; that they may be delivered from the mouths of ſuch Shepherds as have made a prey upon them, and eſcape out of the ſnares. And now is the ſtar riſen in <hi>Jacob,</hi> and the ſeed coming forth, that ſhall ſmite the falſe Prophets, and Diviners, and rule over the Nations: And they that come forth from among this perverſe generation of the wicked, and wait upon the Lord for his life, to ariſe and rule, ſhall ſee the ſalva<g ref="char:EOLhyphen"/>tion of our God, who is the God of our ſalvation, who pleadeth our Cauſe, indu<g ref="char:EOLhyphen"/>eth us with wiſdome, and fighteth for us; to him be glory for ever and ever. Let all fleſh fear before him, and the ſpirits of all fleſh ſubmit to him; and every tongue confeſſe to his glory, who is abaſing the pride of man, and ſtaining the glory of all fleſh, that he himſelf may raigne, and his own Seed may have the preheminence, and raign over <hi>Babylon,</hi> and over all her confuſed crew, whoſe habitation is in darkneſſe and confuſion, though they joyn hand in hand in warre againſt the Truth: the Lamb ſhall overcome them, and overthrow their habitation.</p>
+            <pb n="52" facs="tcp:173008:29"/>
+            <p> 
+               <hi>Bleſſed are they that wait, and with pati<g ref="char:EOLhyphen"/>ence follow the Lamb through the warre; for they ſhall raign with him in Glory, and ſhine in his Kingdome for ever and ever, Amen.</hi> Allelujah.</p>
+            <closer>
+               <signed>G. W.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
